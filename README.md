@@ -1,5 +1,5 @@
 # CI-HMVC
-CodeIgniter 3.1.x with Modular Extensions - HMVC
+CodeIgniter 3.1.10 with Modular Extensions - HMVC
 
 ## Server Requirements
 
